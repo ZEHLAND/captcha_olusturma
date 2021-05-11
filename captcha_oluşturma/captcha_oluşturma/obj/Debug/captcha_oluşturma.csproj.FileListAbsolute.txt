@@ -1,0 +1,11 @@
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\bin\Debug\captcha_oluşturma.exe.config
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\bin\Debug\captcha_oluşturma.exe
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\bin\Debug\captcha_oluşturma.pdb
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\obj\Debug\captcha_oluşturma.csprojAssemblyReference.cache
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\obj\Debug\captcha_oluşturma.Form1.resources
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\obj\Debug\captcha_oluşturma.Properties.Resources.resources
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\obj\Debug\captcha_oluşturma.csproj.GenerateResource.cache
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\obj\Debug\captcha_oluşturma.csproj.CoreCompileInputs.cache
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\obj\Debug\captcha_oluşturma.exe
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\obj\Debug\captcha_oluşturma.pdb
+C:\Users\zehol\source\repos\captcha_oluşturma\captcha_oluşturma\obj\Debug\captcha_oluşturma.Form2.resources
